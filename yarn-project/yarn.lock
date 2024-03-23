@@ -290,7 +290,7 @@ __metadata:
     buffer: ^6.0.3
     copy-webpack-plugin: ^11.0.0
     detect-node: ^2.1.0
-    dexie: 3.2.5
+    dexie: 3.2.6
     events: ^3.3.0
     fake-indexeddb: ^3.0.2
     html-webpack-plugin: ^5.5.0
@@ -8350,12 +8350,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dexie@npm:3.2.5":
-  version: 3.2.5
-  resolution: "dexie@npm:3.2.5"
+"dexie@npm:3.2.6":
+  version: 3.2.6
+  resolution: "dexie@npm:3.2.6"
   dependencies:
     karma-safari-launcher: ^1.0.0
-  checksum: 648497ae25ca5c25bb7027d2db8335d7d890e424c7dc400c79d52c75beab1ae073962b83717dccec5d0281249476baf580ecb62bdcbeef9b7f97aa4dfe5ddb45
+  checksum: 8d07579c64582a80f3dfac4a0ad482ee93320f5919d3186756d30331babb2321a9826c9e066b78f2a6bba8c5d04ef5750630da0d8c36738522e3ba638ac16199
   languageName: node
   linkType: hard
 
@@ -17247,17 +17247,17 @@ __metadata:
   linkType: hard
 
 "webpack-dev-middleware@npm:^5.3.1":
-  version: 5.3.3
-  resolution: "webpack-dev-middleware@npm:5.3.3"
+  version: 5.3.4
+  resolution: "webpack-dev-middleware@npm:5.3.4"
   dependencies:
-    colorette: "npm:^2.0.10"
-    memfs: "npm:^3.4.3"
-    mime-types: "npm:^2.1.31"
-    range-parser: "npm:^1.2.1"
-    schema-utils: "npm:^4.0.0"
+    colorette: ^2.0.10
+    memfs: ^3.4.3
+    mime-types: ^2.1.31
+    range-parser: ^1.2.1
+    schema-utils: ^4.0.0
   peerDependencies:
     webpack: ^4.0.0 || ^5.0.0
-  checksum: dd332cc6da61222c43d25e5a2155e23147b777ff32fdf1f1a0a8777020c072fbcef7756360ce2a13939c3f534c06b4992a4d659318c4a7fe2c0530b52a8a6621
+  checksum: 90cf3e27d0714c1a745454a1794f491b7076434939340605b9ee8718ba2b85385b120939754e9fdbd6569811e749dee53eec319e0d600e70e0b0baffd8e3fb13
   languageName: node
   linkType: hard
 
